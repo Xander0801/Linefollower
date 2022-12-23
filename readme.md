@@ -1,29 +1,27 @@
 # LineFollower
 <br />
-lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 <br />
 <br />
-[picture]
 <br />
 <br />
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: A-Star 32U4 Micro
 <br />
-motors: 
+motors: Micro Metal Gearmotor HP 6V 1.6A 50:1
 <br />
-h-bridge:
+h-bridge: DRV 8833
 <br />
-sensors:
+sensors: QTR8A
 <br />
-batteries:
+batteries: 1300 mAh 30C 2S Lipo
 <br />
-wireless communication:
+wireless communication: HC-05
 <br />
-distance sensor - motors:
+distance sensor - motors: 107mm
 <br />
-weight:
+weight: 182.8g
 <br />
-speed: 
+speed: 0.588m/s
 <br />
